@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.system.web</groupId>
+  <artifactId>system-web-admin</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190114030440</lastUpdated>
+  </versioning>
+</metadata>
